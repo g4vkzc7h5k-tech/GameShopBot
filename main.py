@@ -20,4 +20,4 @@ async def on_ready():
 async def test(ctx):
     await ctx.send("GameShop is online!")
 
-bot.run(MTUyNDg0MTA0MjY0NDQzNTAzNQ.GTNR_U.T18Et2e8PK1lbGDWWDoLDhZ22_-TZDICVqXJMA)
+bot.run(TOKEN)
